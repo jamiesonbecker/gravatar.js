@@ -8,7 +8,6 @@
 
 
 $.fn.gravatar = function(email, size){
-    var email = email || "";
     $(this).html(
         '<img src="https://secure.gravatar.com/avatar/' +
         md5(email.trim().toLowerCase()) + '?s=' + size + '&d=mm">');
