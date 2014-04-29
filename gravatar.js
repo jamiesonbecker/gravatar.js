@@ -1,6 +1,6 @@
 /*
  * (c) Jamieson Becker, MIT license
- * needs an MD5 Javascript library like
+ * needs jQuery and an MD5 Javascript library like
  * https://github.com/blueimp/JavaScript-MD5/blob/master/js/md5.js
  * or
  * http://pajhome.org.uk/crypt/md5/md5.html
